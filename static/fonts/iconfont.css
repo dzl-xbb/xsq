@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4013294 */
+  src: url('./static/fonts/iconfont.woff2?t=1681357914245') format('woff2'),
+       url('./static/fonts/iconfont.woff?t=1681357914245') format('woff'),
+       url('./static/fonts/iconfont.ttf?t=1681357914245') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-charulianjie:before {
+  content: "\ec7f";
+}
+
+.icon-charutupian:before {
+  content: "\ec80";
+}
+
+.icon-juzhongduiqi:before {
+  content: "\ec81";
+}
+
+.icon-youduiqi:before {
+  content: "\ec82";
+}
+
+.icon-zitidaima:before {
+  content: "\ec83";
+}
+
+.icon-zitijiacu:before {
+  content: "\ec84";
+}
+
+.icon-zitibiaoti:before {
+  content: "\ec85";
+}
+
+.icon-zitixiahuaxian:before {
+  content: "\ec86";
+}
+
+.icon-zitixieti:before {
+  content: "\ec87";
+}
+
+.icon-zitiyanse:before {
+  content: "\ec88";
+}
+
+.icon-zuoduiqi:before {
+  content: "\ec89";
+}
+
